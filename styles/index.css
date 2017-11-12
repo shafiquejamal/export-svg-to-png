@@ -1,0 +1,19 @@
+g.c3-axis {
+  font-size: 15px;
+}
+
+text.c3-axis-x-label {
+  border: 1px solid;
+  color: black;
+  font-size: 18px;
+}
+
+.c3-axis-y-label {
+  border: 1px solid;
+  color: black;
+  font-size: 18px;
+}
+
+text.c3-title {
+  font-size: 24px
+}
